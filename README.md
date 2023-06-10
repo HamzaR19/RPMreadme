@@ -53,8 +53,12 @@ n/a
 NOTICE: This application is covered under the MIT
 
 ## Questions
+This was tough
+
+## Contact
 
 Additional questions? Links below to Github and Email
+
 
 [Link to Github](https://github.com/Hamzar19@gmail.com)
 
