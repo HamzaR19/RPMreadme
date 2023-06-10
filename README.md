@@ -30,8 +30,11 @@ I created this application using node.js. The application generates a profession
 ![20230609_231444](https://github.com/HamzaR19/RPMreadme/assets/132932060/213407d4-7138-4e85-889c-bb9c63c1c0dd)
 
 ## Installation
+1. Create Repo
+2. Open in VS Code
+3. Install Node and Inquirer
+4. Run application using node index.js
 
-Create the repo
 
 ## Usage Information
 
@@ -51,7 +54,7 @@ NOTICE: This application is covered under the MIT
 
 ## Questions
 
-Have additional questions? Click the links below to reach me through my GitHub account or Email address.
+Additional questions? Links below to Github and Email
 
 [Link to Github](https://github.com/Hamzar19@gmail.com)
 
