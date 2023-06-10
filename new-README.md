@@ -1,8 +1,8 @@
-easy's README
+test's README
 
- # easy
+ # vice
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 
@@ -22,33 +22,33 @@ easy's README
 
 ## Description
 
-easy
+vice
 
 ## Installation
 
-easy
+vice
 
 ## Usage Information
 
-easy
+vice
 
 ## Contribution Guidelines
 
-easy
+vice
 
 ## Test Instructions
 
-easy
+vice
 
 ## License
 
-NOTICE: This application is covered under the Apache 2.0 License
+NOTICE: This application is covered under the MIT
 
 ## Questions
 
 Have additional questions? Click the links below to reach me through my GitHub account or Email address.
 
-[Link to Github](https://github.com/eay)
+[Link to Github](https://github.com/vice)
 
-<a href="mailto:easy">easy</a>
+<a href="mailto:vice">vice</a>
 
