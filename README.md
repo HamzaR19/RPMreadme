@@ -12,7 +12,7 @@ Hamza Rahman's README
 
  * [Usage-Information](#usage-information)
 
- * [Contribution-Guidelines](#contribution-guidelines)
+ * [Video-Link](#Video-Link)
 
  * [Test-Instructions](#test-instructions)
 
@@ -40,7 +40,7 @@ I created this application using node.js. The application generates a profession
 
 Utilizes Node.js ---node index.js command initializes the application
 
-## Contribution Guidelines
+## Video-Link
 
 n/a
 
