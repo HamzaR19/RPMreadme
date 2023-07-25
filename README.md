@@ -42,7 +42,7 @@ Utilizes Node.js ---node index.js command initializes the application
 
 ## Video-Link
 
-n/a
+[Video Link](https://www.youtube.com/watch?v=k8HYsblrqK4)
 
 ## Test Instructions
 
